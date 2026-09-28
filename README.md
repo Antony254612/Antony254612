@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, i'm Antony Wetaba Ochango👋
 
-<!--
-**Antony254612/Antony254612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at Kisii University, Kenya
 
-Here are some ideas to get you started:
+Passionate about software development, web technologies, mobile applications, APIs and Databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Learning**
+    -HTML & CSS
+    -JavaScript
+    -MySQL
+    -MongoDB
+    -PHP
+    -Git/GitHub
+**Technologies and Tools**
+    **Prgramming Languages**
+        -JavaScript, PHP , Java
+    **Web Development**
+        -HTML, CSS, JavaScript
+      **Databases**
+          -MySQL, MongoDB
+      **Tools**
+          -Git, GitHub, VS code, Android Studio
+        **Career Goal**
+          -To become a skilled software engineer capable of designing and developing practical technology solutions that solve real world             problems.
+
+          **CONNECT WITH ME**
+          Portfolio: https//:antony254612.github.io/antonyochango.github.io/
+          GitHub:https://github.com/antony254612
